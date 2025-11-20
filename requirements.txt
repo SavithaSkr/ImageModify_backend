@@ -1,0 +1,13 @@
+fastapi==0.110.0
+uvicorn[standard]==0.23.2
+python-jose==3.3.0
+passlib[bcrypt]==1.7.4
+pydantic==2.5.2
+python-multipart==0.0.6
+sqlalchemy==2.0.36
+python-dotenv
+email-validator
+requests
+httpx
+gspread
+oauthlib
